@@ -86,8 +86,35 @@ public class Event {
         }
     }
 
-//    @Override
-//    public String toString() {
-//
-//    } need to write the format for cli once other model files are completed
+    @Override
+    public String toString() {
+        String venueName = (venue != null) ? venue.getVenueName() : "TBA";
+        String eventPrice = (price == 0.0) ? "Free" : String.format("£%.2f", price);
+        String ticketLink = (ticketUrl != null && !ticketUrl.isBlank()) ? ticketUrl : "No link available";
+
+        StringBuilder sb = new StringBuilder();
+        sb.append("-----------------------------------------\n");
+        sb.append("Event Name: ").append(eventName).append("\n");
+        sb.append("Date: ").append(date.toString()).append("\n");
+        sb.append("City: ").append(city).append("\n");
+        sb.append("Event Description: ").append(eventDescription).append("\n");
+        sb.append("Venue: ").append(venueName).append("\n");
+        sb.append("Price: ").append(eventPrice).append("\n");
+        sb.append("Ticket Link: ").append(ticketLink).append("\n");
+
+        sb.append("Lineup: ");
+        if (lineup == null || lineup.isEmpty()) {
+            sb.append("TBA");
+        } else {
+            for (int i = 0; i < lineup.size(); i++) {
+                sb.append(lineup.get(i).getArtistName());
+                if(i < lineup.size() - 1) {
+                    sb.append(", ");
+                }
+            }
+        }
+
+        sb.append("-----------------------------------\n");
+        return sb.toString();
+    }
 }
