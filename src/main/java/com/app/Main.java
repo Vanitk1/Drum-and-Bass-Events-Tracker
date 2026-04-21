@@ -1,4 +1,4 @@
 package main.java.com.app;
 
-public class main {
+public class Main {
 }

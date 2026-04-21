@@ -1,0 +1,39 @@
+dnb-events-tracker/
+├── pom.xml
+├── .gitignore
+├── README.md
+└── src/
+    ├── main/
+    │   ├── java/
+    │   │   └── com/
+    │   │       └── app/
+    │   │           ├── Main.java
+    │   │           ├── model/
+    │   │           │   ├── Event.java
+    │   │           │   ├── Venue.java
+    │   │           │   ├── Artist.java
+    │   │           │   └── Lineup.java
+    │   │           ├── service/
+    │   │           │   ├── EventService.java
+    │   │           │   ├── SearchService.java
+    │   │           │   └── SortService.java
+    │   │           ├── cli/
+    │   │           │   ├── Menu.java
+    │   │           │   └── InputHandler.java
+    │   │           ├── persistence/
+    │   │           │   ├── JsonFileHandler.java
+    │   │           │   └── DataLoader.java
+    │   │           ├── api/
+    │   │           │   ├── SkiddleApiClient.java
+    │   │           │   └── ApiResponseMapper.java
+    │   │           └── ui/
+    │   │               ├── MainViewController.java
+    │   │               └── MainView.fxml
+    │   └── resources/
+    │       ├── events.json
+    │       └── sample-data.json
+    └── test/
+        └── java/
+            └── com/
+                └── app/
+                    └── EventServiceTest.java
