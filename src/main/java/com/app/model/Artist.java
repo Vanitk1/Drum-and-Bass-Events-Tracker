@@ -6,7 +6,7 @@ public class Artist {
     private String subgenre;
 
 
-    private Artist(String artistName, String subgenre) {
+    public Artist(String artistName, String subgenre) {
         this.artistName = artistName;
         this.subgenre = subgenre;
     }
