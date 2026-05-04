@@ -1,1 +1,7 @@
-.idea
+.idea/
+*.iml
+*.class
+out/
+target/
+*.log
+.mvn/

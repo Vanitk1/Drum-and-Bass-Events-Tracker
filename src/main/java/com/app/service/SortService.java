@@ -10,7 +10,7 @@ public class SortService {
     public List<Event> sortByDateAsc(List<Event> events) {
         List<Event> sortedEvents = new ArrayList<>(events);
         for (int i = 0; i < sortedEvents.size() - 1; i++) {
-            for (int j = i + 1; j < sortedEvents.size(); j++) {
+            for (int j = 0; j < sortedEvents.size() - 1 - i; j++) {
                 if (sortedEvents.get(j).getDate().isAfter(sortedEvents.get(j + 1).getDate())) {
                     Event temp = sortedEvents.get(j);
                     sortedEvents.set(j, sortedEvents.get(j + 1));
