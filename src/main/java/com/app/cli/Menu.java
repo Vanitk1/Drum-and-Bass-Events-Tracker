@@ -1,12 +1,10 @@
-package main.java.com.app.cli;
-
-import main.java.com.app.model.Event;
-import main.java.com.app.model.Artist;
-import main.java.com.app.model.Venue;
-import main.java.com.app.service.EventService;
-import main.java.com.app.service.SearchService;
-import main.java.com.app.service.SortService;
-
+package com.app.cli;
+import com.app.model.Artist;
+import com.app.model.Venue;
+import com.app.model.Event;
+import com.app.service.EventService;
+import com.app.service.SearchService;
+import com.app.service.SortService;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
@@ -23,7 +21,7 @@ public class Menu {
     private final DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
 
 
-    public  Menu(EventService eventService, SearchService searchService, SortService sortService) {
+    public Menu(EventService eventService, SearchService searchService, SortService sortService) {
         this.eventService = eventService;
         this.searchService = searchService;
         this.sortService = sortService;
@@ -32,7 +30,7 @@ public class Menu {
 
     public void start() {
         System.out.println("=========================================");
-        System.out.println("           DnB Events Tracker             ");
+        System.out.println("           DnB Events Tracker            ");
         System.out.println("=========================================");
 
         boolean running = true;
@@ -122,16 +120,23 @@ public class Menu {
         double price = readDouble("Ticket price (0 for free): ");
         String ticketUrl = readString("Ticket URL (leave blank if none): ");
 
-        List<Artist> lineup = new ArrayList<>();
-        System.out.println("Add artists to lineup (enter 'done' when finished):");
+        Event event = new Event(name, description, date, city, venue, new ArrayList<>(), price, ticketUrl);
+
+        System.out.println("Add one artist or multiple to lineup (enter 'done' when finished):");
         while (true) {
-            String artistName = readString("Artist name: ");
-            if (artistName.equalsIgnoreCase("done")) break;
-            String genre = readString("Genre: ");
-            lineup.add(new Artist(artistName, genre));
+            String artistName = readString("Artist name (or press Enter to finish): ");
+            if (artistName.isEmpty() || artistName.equalsIgnoreCase("done")) break;
+
+            Artist check = new Artist(artistName, "");
+            if (event.getLineup().contains(check)) {
+                System.out.println(artistName + " is already in the lineup, skipping.");
+                continue;
+            }
+
+            String genre = readString("Artist's genre: ");
+            event.addArtist(new Artist(artistName, genre));
         }
 
-        Event event = new Event(name, description, date, city, venue, lineup, price, ticketUrl);
         eventService.addEvent(event);
     }
 

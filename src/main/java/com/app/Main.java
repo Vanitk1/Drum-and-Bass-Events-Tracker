@@ -1,9 +1,10 @@
-package main.java.com.app;
+package com.app;
 
-import main.java.com.app.cli.Menu;
-import main.java.com.app.service.EventService;
-import main.java.com.app.service.SearchService;
-import main.java.com.app.service.SortService;
+import com.app.cli.Menu;
+import com.app.persistence.JsonFileHandler;
+import com.app.service.EventService;
+import com.app.service.SearchService;
+import com.app.service.SortService;
 
 public class Main {
 
@@ -11,8 +12,13 @@ public class Main {
         EventService eventService = new EventService();
         SearchService searchService = new SearchService();
         SortService sortService = new SortService();
+        JsonFileHandler jsonFileHandler = new JsonFileHandler();
 
         Menu menu = new Menu(eventService, searchService, sortService);
+
+        eventService.loadEvents(jsonFileHandler.loadEvents());
         menu.start();
+
+        jsonFileHandler.saveEvents(eventService.getEvents());
     }
 }
