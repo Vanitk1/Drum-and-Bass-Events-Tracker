@@ -1,4 +1,4 @@
-package main.java.com.app.cli;
+package com.app.cli;
 
 public class InputHandler {
 }

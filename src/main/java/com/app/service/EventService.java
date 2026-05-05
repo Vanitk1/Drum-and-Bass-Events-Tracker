@@ -1,7 +1,7 @@
-package main.java.com.app.service;
+package com.app.service;
 
-import main.java.com.app.model.Artist;
-import main.java.com.app.model.Event;
+import com.app.model.Artist;
+import com.app.model.Event;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

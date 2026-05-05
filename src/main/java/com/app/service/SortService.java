@@ -1,6 +1,6 @@
-package main.java.com.app.service;
+package com.app.service;
 
-import main.java.com.app.model.Event;
+import com.app.model.Event;
 
 import java.util.ArrayList;
 import java.util.List;

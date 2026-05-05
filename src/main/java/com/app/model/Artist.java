@@ -1,4 +1,4 @@
-package main.java.com.app.model;
+package com.app.model;
 
 public class Artist {
 
