@@ -1,4 +1,6 @@
 package com.app.cli;
+import com.app.api.ApiResponse;
+import com.app.api.SkiddleApiClient;
 import com.app.model.Artist;
 import com.app.model.Venue;
 import com.app.model.Event;
@@ -48,7 +50,9 @@ public class Menu {
                 case 6 -> addEvent();
                 case 7 -> removeEvent();
                 case 8 -> viewSortedByDate();
-                case 9 -> {
+                case 9 -> fetchFromSkiddle();
+                case 10 -> fetchFromSkiddleByCity();
+                case 11 -> {
                     System.out.println("Bye!");
                     running = false;
                 }
@@ -70,7 +74,9 @@ public class Menu {
         System.out.println(" 6. Add new event");
         System.out.println(" 7. Remove event");
         System.out.println(" 8. View events sorted by date");
-        System.out.println(" 9. Exit");
+        System.out.println(" 9. Fetch events from Skiddle");
+        System.out.println(" 10. Fetch events from Skiddle by city");
+        System.out.println(" 11. Exit");
         System.out.println("-----------------------------------------");
     }
 
@@ -138,6 +144,23 @@ public class Menu {
         }
 
         eventService.addEvent(event);
+    }
+
+    private void fetchFromSkiddle() {
+        SkiddleApiClient client = new SkiddleApiClient();
+        ApiResponse mapper = new ApiResponse();
+        String json = client.searchEvents("drum and bass", 20);
+        List<Event> apiEvents = mapper.mapEvents(json);
+        eventService.loadEvents(apiEvents);
+    }
+
+    private void fetchFromSkiddleByCity() {
+        String city = readString("Enter city: ");
+        SkiddleApiClient client = new SkiddleApiClient();
+        ApiResponse mapper = new ApiResponse();
+        String json = client.searchEventsByCity(city, 20);
+        List<Event> apiEvents = mapper.mapEvents(json);
+        eventService.loadEvents(apiEvents);
     }
 
     private void removeEvent() {
