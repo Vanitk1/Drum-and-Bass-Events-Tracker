@@ -1,1 +1,1962 @@
-[]
+[
+  {
+    "eventName": "Drum and Bass Classics Coventry",
+    "eventDescription": "Join us in Coventry for the first time, as we step back in time to the 1995-2015 golden era of Drum \u0026 Bass, when classics were made \u0026 legends born!",
+    "date": "2026-09-19",
+    "city": "Coventry",
+    "venue": {
+      "venueName": "HMV EMPIRE COVENTRY",
+      "address": "22 Hertford Street",
+      "city": "Coventry"
+    },
+    "lineup": [],
+    "price": 10.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Coventry/HMV-EMPIRE-COVENTRY/Drum-and-Bass-Classics-Coventry/42434868/"
+  },
+  {
+    "eventName": "Drum n Bass over 30s Day Club",
+    "eventDescription": "Calling all original ravers! DNB day club is back! Created especially for the over 30s who still know how to move to the original sound of DNB.",
+    "date": "2026-05-23",
+    "city": "BIRMINGHAM",
+    "venue": {
+      "venueName": "SOBAR",
+      "address": "85, HURST STREET",
+      "city": "BIRMINGHAM"
+    },
+    "lineup": [],
+    "price": 12.5,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Birmingham/SOBAR/Drum-n-Bass-over-30s-Day-Club/42412150/"
+  },
+  {
+    "eventName": "Drum and Bass Band present The Rave Return",
+    "eventDescription": "Live renditions of DnB, Jungle, and live remixes.",
+    "date": "2026-08-20",
+    "city": "Manchester",
+    "venue": {
+      "venueName": "Band On The Wall",
+      "address": "25 Swan Street",
+      "city": "Manchester"
+    },
+    "lineup": [],
+    "price": 16.5,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Manchester/Band-On-The-Wall/Drum-and-Bass-Band-present-The-Rave-Return/42330818/"
+  },
+  {
+    "eventName": "Insomnia London: House, Techno, Drum n Bass, Jungle, Breaks",
+    "eventDescription": "House, Techno, Drum n Bass, Jungle, Breaks\n10pm - 3am",
+    "date": "2026-05-21",
+    "city": "London",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "32-37 Cowper Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Insomnia-London-House-Techno-Drum-n-Bass-Jungle-Breaks/42428648/"
+  },
+  {
+    "eventName": "Drum and Bass Classics Brighton | Halloween All Dayer",
+    "eventDescription": "This Halloween join us in Brighton to step back in time to the 1995-2015 golden era of Drum \u0026 Bass, when classics were made \u0026 legends born!",
+    "date": "2026-10-31",
+    "city": "Brighton",
+    "venue": {
+      "venueName": "The Concorde 2",
+      "address": "286A Madeira Drive",
+      "city": "Brighton"
+    },
+    "lineup": [],
+    "price": 11.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Brighton/The-Concorde-2/Drum-and-Bass-Classics-Brighton--Halloween-All-Dayer/42417352/"
+  },
+  {
+    "eventName": "Insomnia London: House, Techno, Drum n Bass, Jungle, Breaks",
+    "eventDescription": "House, Techno, Drum n Bass, Jungle, Breaks\n10pm - 3am",
+    "date": "2026-06-18",
+    "city": "London",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "32-37 Cowper Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Insomnia-London-House-Techno-Drum-n-Bass-Jungle-Breaks/42428728/"
+  },
+  {
+    "eventName": "Insomnia London: House, Techno, Drum n Bass, Jungle, Breaks",
+    "eventDescription": "House, Techno, Drum n Bass, Jungle, Breaks\n10pm - 3am",
+    "date": "2026-06-11",
+    "city": "London",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "32-37 Cowper Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Insomnia-London-House-Techno-Drum-n-Bass-Jungle-Breaks/42428723/"
+  },
+  {
+    "eventName": "Insomnia London: House, Techno, Drum n Bass, Jungle, Breaks",
+    "eventDescription": "House, Techno, Drum n Bass, Jungle, Breaks\n10pm - 3am",
+    "date": "2026-06-04",
+    "city": "London",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "32-37 Cowper Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Insomnia-London-House-Techno-Drum-n-Bass-Jungle-Breaks/42428720/"
+  },
+  {
+    "eventName": "BALA BASS AUDIO x FULLYGASEED drum and bass night",
+    "eventDescription": "We are proud to announce that we will be hosting a dnb night on the 28th of may at the nest Lakota, with a massive line up for it, see you there!",
+    "date": "2026-05-28",
+    "city": "Bristol",
+    "venue": {
+      "venueName": "Lakota (The Nest)",
+      "address": "6 Upper York Street",
+      "city": "Bristol"
+    },
+    "lineup": [],
+    "price": 4.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Bristol/Lakota-%28The-Nest%29/BALA-BASS-AUDIO-x-FULLYGASEED-drum-and-bass-night/42400071/"
+  },
+  {
+    "eventName": "Insomnia London: House, Techno, Drum n Bass, Jungle, Breaks",
+    "eventDescription": "House, Techno, Drum n Bass, Jungle, Breaks\n10pm - 3am",
+    "date": "2026-05-28",
+    "city": "London",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "32-37 Cowper Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Insomnia-London-House-Techno-Drum-n-Bass-Jungle-Breaks/42428719/"
+  },
+  {
+    "eventName": "Insomnia London: House, Techno, Drum n Bass, Jungle, Breaks",
+    "eventDescription": "House, Techno, Drum n Bass, Jungle, Breaks\n10pm - 3am",
+    "date": "2026-06-25",
+    "city": "London",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "32-37 Cowper Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Insomnia-London-House-Techno-Drum-n-Bass-Jungle-Breaks/42428730/"
+  },
+  {
+    "eventName": "Drum \u0026 Bass: Edition.",
+    "eventDescription": "Drum and Bass: Edition touches down in Brighton Friday 5th June \n\nDon\u0027t miss out exclusive free tickets available only from Skiddle!!!",
+    "date": "2026-06-05",
+    "city": "Brighton",
+    "venue": {
+      "venueName": "Horizon Club",
+      "address": "211-214 Kings Road Arches",
+      "city": "Brighton"
+    },
+    "lineup": [],
+    "price": 0.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Brighton/Horizon-Club/Drum--Bass-Edition/42434958/"
+  },
+  {
+    "eventName": "Makino Ibiza [Drum \u0026 Bass, Jungle, 140]",
+    "eventDescription": "Makino events land on the island this summer, creating a space for Drum \u0026 Bass, Jungle, Breaks and 140 in Ibiza.",
+    "date": "2026-06-19",
+    "city": "Eivissa",
+    "venue": {
+      "venueName": "Sigma",
+      "address": "Calle de Carles V 11",
+      "city": "Eivissa"
+    },
+    "lineup": [],
+    "price": 5.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/spain/Sigma/Makino-Ibiza-Drum--Bass-Jungle-140/42412480/"
+  },
+  {
+    "eventName": "Deeper Drum \u0026 Bass Summer Session",
+    "eventDescription": "Deeper Drum \u0026 Bass lands back at Canvas 27 June. Dark room, heavy subs, smoked-out rollers. No hype, just  heads down drum \u0026 bass all night. Be there.",
+    "date": "2026-06-27",
+    "city": "Bournemouth",
+    "venue": {
+      "venueName": "Canvas Bournemouth",
+      "address": "45 Poole Hill",
+      "city": "Bournemouth"
+    },
+    "lineup": [],
+    "price": 0.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Bournemouth/Canvas-Bournemouth/Deeper-Drum--Bass-Summer-Session/42303576/"
+  },
+  {
+    "eventName": "Bassline VS Drum \u0026 Bass - Who runs the decks ?",
+    "eventDescription": "Bassline meets DnB in a full energy clash. Open decks, raw talent, heavy vibes all night !",
+    "date": "2026-06-27",
+    "city": "Wellingborough",
+    "venue": {
+      "venueName": "PLAY At The Palace ",
+      "address": "7 Park Road",
+      "city": "Wellingborough"
+    },
+    "lineup": [],
+    "price": 0.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Northampton/PLAY-At-The-Palace-/Bassline-VS-Drum--Bass---Who-runs-the-decks-/42414278/"
+  },
+  {
+    "eventName": "Makino Ibiza with Monrroe [Drum \u0026 Bass, Jungle, 140]",
+    "eventDescription": "Makino events land on the island this summer, creating a space for Drum \u0026 Bass, Jungle, Breaks and 140 in Ibiza.",
+    "date": "2026-05-29",
+    "city": "Eivissa",
+    "venue": {
+      "venueName": "Sigma",
+      "address": "Calle de Carles V 11",
+      "city": "Eivissa"
+    },
+    "lineup": [],
+    "price": 5.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/spain/Sigma/Makino-Ibiza-with-Monrroe-Drum--Bass-Jungle-140/42393649/"
+  },
+  {
+    "eventName": "Rare Sounds: Drum \u0026 Bass, Dubstep, Garage \u0026 Techno | Bath",
+    "eventDescription": "Were once again taking over The Vault. So if you\u0027re looking for a night of heavy underground music in a great local venue then look no further!",
+    "date": "2026-05-29",
+    "city": "Bath",
+    "venue": {
+      "venueName": "St James Wine Vaults",
+      "address": "St James Street",
+      "city": "Bath"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Bath/St-James-Wine-Vaults/Rare-Sounds-Drum--Bass-Dubstep-Garage--Techno--Bath/42415663/"
+  },
+  {
+    "eventName": "Drum \u0026 Bass All Dayer - Canterbury",
+    "eventDescription": "Say Nothin\u0027 presents the huge Drum \u0026 Bass All Dayer in Canterbury with Amplify, Sub Zero, Logan D, Majistrate, Evil B, Harry Shotta + loads more!",
+    "date": "2026-06-06",
+    "city": "Canterbury",
+    "venue": {
+      "venueName": "The Venue Canterbury",
+      "address": "University Rd, Canterbury",
+      "city": "Canterbury"
+    },
+    "lineup": [],
+    "price": 5.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Canterbury/The-Venue-Canterbury/Drum--Bass-All-Dayer---Canterbury/42282703/"
+  },
+  {
+    "eventName": "London Something Drum \u0026 Bass: Kenny Ken, Kelvin 373, IC3 + More",
+    "eventDescription": "DJ Ron presents London Something, a Drum and Bass and Jungle club night taking place at Earth Kitchen in Hackney, London on Saturday 25th July 2026.",
+    "date": "2026-07-25",
+    "city": "London",
+    "venue": {
+      "venueName": "EartH (Evolutionary Arts Hackney)",
+      "address": "11_17 Stoke Newington Road",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 11.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/EartH-%28Evolutionary-Arts-Hackney%29/London-Something-Drum--Bass-Kenny-Ken-Kelvin-373-IC3--More/42413889/"
+  },
+  {
+    "eventName": "Hospitality On The Beach 2026 | A Drum \u0026 Bass Holiday",
+    "eventDescription": "Hospitality On The Beach is a drum \u0026 bass holiday uniting like-minded ravers from around the world to the beautiful shores of Tisno in Croatia.",
+    "date": "2026-07-01",
+    "city": "Tisno",
+    "venue": {
+      "venueName": "The Garden Resort, Tisno, Croatia",
+      "address": "Petrića glava 34",
+      "city": "Tisno"
+    },
+    "lineup": [],
+    "price": 250.0,
+    "ticketUrl": "https://www.skiddle.com/festivals/hospitality-on-the-beach/"
+  },
+  {
+    "eventName": "Drum and Bass Classics Coventry",
+    "eventDescription": "Join us in Coventry for the first time, as we step back in time to the 1995-2015 golden era of Drum \u0026 Bass, when classics were made \u0026 legends born!",
+    "date": "2026-09-19",
+    "city": "Coventry",
+    "venue": {
+      "venueName": "HMV EMPIRE COVENTRY",
+      "address": "22 Hertford Street",
+      "city": "Coventry"
+    },
+    "lineup": [],
+    "price": 10.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Coventry/HMV-EMPIRE-COVENTRY/Drum-and-Bass-Classics-Coventry/42434868/"
+  },
+  {
+    "eventName": "Drum and Bass Band present The Rave Return",
+    "eventDescription": "Live renditions of DnB, Jungle, and live remixes.",
+    "date": "2026-08-20",
+    "city": "Manchester",
+    "venue": {
+      "venueName": "Band On The Wall",
+      "address": "25 Swan Street",
+      "city": "Manchester"
+    },
+    "lineup": [],
+    "price": 16.5,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Manchester/Band-On-The-Wall/Drum-and-Bass-Band-present-The-Rave-Return/42330818/"
+  },
+  {
+    "eventName": "Drum n Bass over 30s Day Club",
+    "eventDescription": "Calling all original ravers! DNB day club is back! Created especially for the over 30s who still know how to move to the original sound of DNB.",
+    "date": "2026-05-23",
+    "city": "BIRMINGHAM",
+    "venue": {
+      "venueName": "SOBAR",
+      "address": "85, HURST STREET",
+      "city": "BIRMINGHAM"
+    },
+    "lineup": [],
+    "price": 12.5,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Birmingham/SOBAR/Drum-n-Bass-over-30s-Day-Club/42412150/"
+  },
+  {
+    "eventName": "Drum and Bass Classics Brighton | Halloween All Dayer",
+    "eventDescription": "This Halloween join us in Brighton to step back in time to the 1995-2015 golden era of Drum \u0026 Bass, when classics were made \u0026 legends born!",
+    "date": "2026-10-31",
+    "city": "Brighton",
+    "venue": {
+      "venueName": "The Concorde 2",
+      "address": "286A Madeira Drive",
+      "city": "Brighton"
+    },
+    "lineup": [],
+    "price": 11.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Brighton/The-Concorde-2/Drum-and-Bass-Classics-Brighton--Halloween-All-Dayer/42417352/"
+  },
+  {
+    "eventName": "Insomnia London: House, Techno, Drum n Bass, Jungle, Breaks",
+    "eventDescription": "House, Techno, Drum n Bass, Jungle, Breaks\n10pm - 3am",
+    "date": "2026-06-18",
+    "city": "London",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "32-37 Cowper Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Insomnia-London-House-Techno-Drum-n-Bass-Jungle-Breaks/42428728/"
+  },
+  {
+    "eventName": "Insomnia London: House, Techno, Drum n Bass, Jungle, Breaks",
+    "eventDescription": "House, Techno, Drum n Bass, Jungle, Breaks\n10pm - 3am",
+    "date": "2026-06-11",
+    "city": "London",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "32-37 Cowper Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Insomnia-London-House-Techno-Drum-n-Bass-Jungle-Breaks/42428723/"
+  },
+  {
+    "eventName": "Insomnia London: House, Techno, Drum n Bass, Jungle, Breaks",
+    "eventDescription": "House, Techno, Drum n Bass, Jungle, Breaks\n10pm - 3am",
+    "date": "2026-05-21",
+    "city": "London",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "32-37 Cowper Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Insomnia-London-House-Techno-Drum-n-Bass-Jungle-Breaks/42428648/"
+  },
+  {
+    "eventName": "BALA BASS AUDIO x FULLYGASEED drum and bass night",
+    "eventDescription": "We are proud to announce that we will be hosting a dnb night on the 28th of may at the nest Lakota, with a massive line up for it, see you there!",
+    "date": "2026-05-28",
+    "city": "Bristol",
+    "venue": {
+      "venueName": "Lakota (The Nest)",
+      "address": "6 Upper York Street",
+      "city": "Bristol"
+    },
+    "lineup": [],
+    "price": 4.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Bristol/Lakota-%28The-Nest%29/BALA-BASS-AUDIO-x-FULLYGASEED-drum-and-bass-night/42400071/"
+  },
+  {
+    "eventName": "Insomnia London: House, Techno, Drum n Bass, Jungle, Breaks",
+    "eventDescription": "House, Techno, Drum n Bass, Jungle, Breaks\n10pm - 3am",
+    "date": "2026-06-04",
+    "city": "London",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "32-37 Cowper Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Insomnia-London-House-Techno-Drum-n-Bass-Jungle-Breaks/42428720/"
+  },
+  {
+    "eventName": "Insomnia London: House, Techno, Drum n Bass, Jungle, Breaks",
+    "eventDescription": "House, Techno, Drum n Bass, Jungle, Breaks\n10pm - 3am",
+    "date": "2026-05-28",
+    "city": "London",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "32-37 Cowper Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Insomnia-London-House-Techno-Drum-n-Bass-Jungle-Breaks/42428719/"
+  },
+  {
+    "eventName": "Insomnia London: House, Techno, Drum n Bass, Jungle, Breaks",
+    "eventDescription": "House, Techno, Drum n Bass, Jungle, Breaks\n10pm - 3am",
+    "date": "2026-06-25",
+    "city": "London",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "32-37 Cowper Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Insomnia-London-House-Techno-Drum-n-Bass-Jungle-Breaks/42428730/"
+  },
+  {
+    "eventName": "Drum \u0026 Bass: Edition.",
+    "eventDescription": "Drum and Bass: Edition touches down in Brighton Friday 5th June \n\nDon\u0027t miss out exclusive free tickets available only from Skiddle!!!",
+    "date": "2026-06-05",
+    "city": "Brighton",
+    "venue": {
+      "venueName": "Horizon Club",
+      "address": "211-214 Kings Road Arches",
+      "city": "Brighton"
+    },
+    "lineup": [],
+    "price": 0.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Brighton/Horizon-Club/Drum--Bass-Edition/42434958/"
+  },
+  {
+    "eventName": "Deeper Drum \u0026 Bass Summer Session",
+    "eventDescription": "Deeper Drum \u0026 Bass lands back at Canvas 27 June. Dark room, heavy subs, smoked-out rollers. No hype, just  heads down drum \u0026 bass all night. Be there.",
+    "date": "2026-06-27",
+    "city": "Bournemouth",
+    "venue": {
+      "venueName": "Canvas Bournemouth",
+      "address": "45 Poole Hill",
+      "city": "Bournemouth"
+    },
+    "lineup": [],
+    "price": 0.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Bournemouth/Canvas-Bournemouth/Deeper-Drum--Bass-Summer-Session/42303576/"
+  },
+  {
+    "eventName": "Makino Ibiza [Drum \u0026 Bass, Jungle, 140]",
+    "eventDescription": "Makino events land on the island this summer, creating a space for Drum \u0026 Bass, Jungle, Breaks and 140 in Ibiza.",
+    "date": "2026-06-19",
+    "city": "Eivissa",
+    "venue": {
+      "venueName": "Sigma",
+      "address": "Calle de Carles V 11",
+      "city": "Eivissa"
+    },
+    "lineup": [],
+    "price": 5.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/spain/Sigma/Makino-Ibiza-Drum--Bass-Jungle-140/42412480/"
+  },
+  {
+    "eventName": "Bassline VS Drum \u0026 Bass - Who runs the decks ?",
+    "eventDescription": "Bassline meets DnB in a full energy clash. Open decks, raw talent, heavy vibes all night !",
+    "date": "2026-06-27",
+    "city": "Wellingborough",
+    "venue": {
+      "venueName": "PLAY At The Palace ",
+      "address": "7 Park Road",
+      "city": "Wellingborough"
+    },
+    "lineup": [],
+    "price": 0.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Northampton/PLAY-At-The-Palace-/Bassline-VS-Drum--Bass---Who-runs-the-decks-/42414278/"
+  },
+  {
+    "eventName": "Makino Ibiza with Monrroe [Drum \u0026 Bass, Jungle, 140]",
+    "eventDescription": "Makino events land on the island this summer, creating a space for Drum \u0026 Bass, Jungle, Breaks and 140 in Ibiza.",
+    "date": "2026-05-29",
+    "city": "Eivissa",
+    "venue": {
+      "venueName": "Sigma",
+      "address": "Calle de Carles V 11",
+      "city": "Eivissa"
+    },
+    "lineup": [],
+    "price": 5.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/spain/Sigma/Makino-Ibiza-with-Monrroe-Drum--Bass-Jungle-140/42393649/"
+  },
+  {
+    "eventName": "Rare Sounds: Drum \u0026 Bass, Dubstep, Garage \u0026 Techno | Bath",
+    "eventDescription": "Were once again taking over The Vault. So if you\u0027re looking for a night of heavy underground music in a great local venue then look no further!",
+    "date": "2026-05-29",
+    "city": "Bath",
+    "venue": {
+      "venueName": "St James Wine Vaults",
+      "address": "St James Street",
+      "city": "Bath"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Bath/St-James-Wine-Vaults/Rare-Sounds-Drum--Bass-Dubstep-Garage--Techno--Bath/42415663/"
+  },
+  {
+    "eventName": "Drum \u0026 Bass All Dayer - Canterbury",
+    "eventDescription": "Say Nothin\u0027 presents the huge Drum \u0026 Bass All Dayer in Canterbury with Amplify, Sub Zero, Logan D, Majistrate, Evil B, Harry Shotta + loads more!",
+    "date": "2026-06-06",
+    "city": "Canterbury",
+    "venue": {
+      "venueName": "The Venue Canterbury",
+      "address": "University Rd, Canterbury",
+      "city": "Canterbury"
+    },
+    "lineup": [],
+    "price": 5.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Canterbury/The-Venue-Canterbury/Drum--Bass-All-Dayer---Canterbury/42282703/"
+  },
+  {
+    "eventName": "London Something Drum \u0026 Bass: Kenny Ken, Kelvin 373, IC3 + More",
+    "eventDescription": "DJ Ron presents London Something, a Drum and Bass and Jungle club night taking place at Earth Kitchen in Hackney, London on Saturday 25th July 2026.",
+    "date": "2026-07-25",
+    "city": "London",
+    "venue": {
+      "venueName": "EartH (Evolutionary Arts Hackney)",
+      "address": "11_17 Stoke Newington Road",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 11.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/EartH-%28Evolutionary-Arts-Hackney%29/London-Something-Drum--Bass-Kenny-Ken-Kelvin-373-IC3--More/42413889/"
+  },
+  {
+    "eventName": "Hospitality On The Beach 2026 | A Drum \u0026 Bass Holiday",
+    "eventDescription": "Hospitality On The Beach is a drum \u0026 bass holiday uniting like-minded ravers from around the world to the beautiful shores of Tisno in Croatia.",
+    "date": "2026-07-01",
+    "city": "Tisno",
+    "venue": {
+      "venueName": "The Garden Resort, Tisno, Croatia",
+      "address": "Petrića glava 34",
+      "city": "Tisno"
+    },
+    "lineup": [],
+    "price": 250.0,
+    "ticketUrl": "https://www.skiddle.com/festivals/hospitality-on-the-beach/"
+  },
+  {
+    "eventName": "Drum and Bass Classics Coventry",
+    "eventDescription": "Join us in Coventry for the first time, as we step back in time to the 1995-2015 golden era of Drum \u0026 Bass, when classics were made \u0026 legends born!",
+    "date": "2026-09-19",
+    "city": "Coventry",
+    "venue": {
+      "venueName": "HMV EMPIRE COVENTRY",
+      "address": "22 Hertford Street",
+      "city": "Coventry"
+    },
+    "lineup": [],
+    "price": 10.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Coventry/HMV-EMPIRE-COVENTRY/Drum-and-Bass-Classics-Coventry/42434868/"
+  },
+  {
+    "eventName": "Drum and Bass Band present The Rave Return",
+    "eventDescription": "Live renditions of DnB, Jungle, and live remixes.",
+    "date": "2026-08-20",
+    "city": "Manchester",
+    "venue": {
+      "venueName": "Band On The Wall",
+      "address": "25 Swan Street",
+      "city": "Manchester"
+    },
+    "lineup": [],
+    "price": 16.5,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Manchester/Band-On-The-Wall/Drum-and-Bass-Band-present-The-Rave-Return/42330818/"
+  },
+  {
+    "eventName": "Drum n Bass over 30s Day Club",
+    "eventDescription": "Calling all original ravers! DNB day club is back! Created especially for the over 30s who still know how to move to the original sound of DNB.",
+    "date": "2026-05-23",
+    "city": "BIRMINGHAM",
+    "venue": {
+      "venueName": "SOBAR",
+      "address": "85, HURST STREET",
+      "city": "BIRMINGHAM"
+    },
+    "lineup": [],
+    "price": 12.5,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Birmingham/SOBAR/Drum-n-Bass-over-30s-Day-Club/42412150/"
+  },
+  {
+    "eventName": "Drum and Bass Classics Brighton | Halloween All Dayer",
+    "eventDescription": "This Halloween join us in Brighton to step back in time to the 1995-2015 golden era of Drum \u0026 Bass, when classics were made \u0026 legends born!",
+    "date": "2026-10-31",
+    "city": "Brighton",
+    "venue": {
+      "venueName": "The Concorde 2",
+      "address": "286A Madeira Drive",
+      "city": "Brighton"
+    },
+    "lineup": [],
+    "price": 11.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Brighton/The-Concorde-2/Drum-and-Bass-Classics-Brighton--Halloween-All-Dayer/42417352/"
+  },
+  {
+    "eventName": "Insomnia London: House, Techno, Drum n Bass, Jungle, Breaks",
+    "eventDescription": "House, Techno, Drum n Bass, Jungle, Breaks\n10pm - 3am",
+    "date": "2026-06-18",
+    "city": "London",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "32-37 Cowper Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Insomnia-London-House-Techno-Drum-n-Bass-Jungle-Breaks/42428728/"
+  },
+  {
+    "eventName": "Insomnia London: House, Techno, Drum n Bass, Jungle, Breaks",
+    "eventDescription": "House, Techno, Drum n Bass, Jungle, Breaks\n10pm - 3am",
+    "date": "2026-06-11",
+    "city": "London",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "32-37 Cowper Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Insomnia-London-House-Techno-Drum-n-Bass-Jungle-Breaks/42428723/"
+  },
+  {
+    "eventName": "Insomnia London: House, Techno, Drum n Bass, Jungle, Breaks",
+    "eventDescription": "House, Techno, Drum n Bass, Jungle, Breaks\n10pm - 3am",
+    "date": "2026-05-21",
+    "city": "London",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "32-37 Cowper Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Insomnia-London-House-Techno-Drum-n-Bass-Jungle-Breaks/42428648/"
+  },
+  {
+    "eventName": "BALA BASS AUDIO x FULLYGASEED drum and bass night",
+    "eventDescription": "We are proud to announce that we will be hosting a dnb night on the 28th of may at the nest Lakota, with a massive line up for it, see you there!",
+    "date": "2026-05-28",
+    "city": "Bristol",
+    "venue": {
+      "venueName": "Lakota (The Nest)",
+      "address": "6 Upper York Street",
+      "city": "Bristol"
+    },
+    "lineup": [],
+    "price": 4.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Bristol/Lakota-%28The-Nest%29/BALA-BASS-AUDIO-x-FULLYGASEED-drum-and-bass-night/42400071/"
+  },
+  {
+    "eventName": "Insomnia London: House, Techno, Drum n Bass, Jungle, Breaks",
+    "eventDescription": "House, Techno, Drum n Bass, Jungle, Breaks\n10pm - 3am",
+    "date": "2026-06-04",
+    "city": "London",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "32-37 Cowper Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Insomnia-London-House-Techno-Drum-n-Bass-Jungle-Breaks/42428720/"
+  },
+  {
+    "eventName": "Insomnia London: House, Techno, Drum n Bass, Jungle, Breaks",
+    "eventDescription": "House, Techno, Drum n Bass, Jungle, Breaks\n10pm - 3am",
+    "date": "2026-05-28",
+    "city": "London",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "32-37 Cowper Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Insomnia-London-House-Techno-Drum-n-Bass-Jungle-Breaks/42428719/"
+  },
+  {
+    "eventName": "Insomnia London: House, Techno, Drum n Bass, Jungle, Breaks",
+    "eventDescription": "House, Techno, Drum n Bass, Jungle, Breaks\n10pm - 3am",
+    "date": "2026-06-25",
+    "city": "London",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "32-37 Cowper Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Insomnia-London-House-Techno-Drum-n-Bass-Jungle-Breaks/42428730/"
+  },
+  {
+    "eventName": "Drum \u0026 Bass: Edition.",
+    "eventDescription": "Drum and Bass: Edition touches down in Brighton Friday 5th June \n\nDon\u0027t miss out exclusive free tickets available only from Skiddle!!!",
+    "date": "2026-06-05",
+    "city": "Brighton",
+    "venue": {
+      "venueName": "Horizon Club",
+      "address": "211-214 Kings Road Arches",
+      "city": "Brighton"
+    },
+    "lineup": [],
+    "price": 0.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Brighton/Horizon-Club/Drum--Bass-Edition/42434958/"
+  },
+  {
+    "eventName": "Deeper Drum \u0026 Bass Summer Session",
+    "eventDescription": "Deeper Drum \u0026 Bass lands back at Canvas 27 June. Dark room, heavy subs, smoked-out rollers. No hype, just  heads down drum \u0026 bass all night. Be there.",
+    "date": "2026-06-27",
+    "city": "Bournemouth",
+    "venue": {
+      "venueName": "Canvas Bournemouth",
+      "address": "45 Poole Hill",
+      "city": "Bournemouth"
+    },
+    "lineup": [],
+    "price": 0.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Bournemouth/Canvas-Bournemouth/Deeper-Drum--Bass-Summer-Session/42303576/"
+  },
+  {
+    "eventName": "Makino Ibiza [Drum \u0026 Bass, Jungle, 140]",
+    "eventDescription": "Makino events land on the island this summer, creating a space for Drum \u0026 Bass, Jungle, Breaks and 140 in Ibiza.",
+    "date": "2026-06-19",
+    "city": "Eivissa",
+    "venue": {
+      "venueName": "Sigma",
+      "address": "Calle de Carles V 11",
+      "city": "Eivissa"
+    },
+    "lineup": [],
+    "price": 5.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/spain/Sigma/Makino-Ibiza-Drum--Bass-Jungle-140/42412480/"
+  },
+  {
+    "eventName": "Bassline VS Drum \u0026 Bass - Who runs the decks ?",
+    "eventDescription": "Bassline meets DnB in a full energy clash. Open decks, raw talent, heavy vibes all night !",
+    "date": "2026-06-27",
+    "city": "Wellingborough",
+    "venue": {
+      "venueName": "PLAY At The Palace ",
+      "address": "7 Park Road",
+      "city": "Wellingborough"
+    },
+    "lineup": [],
+    "price": 0.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Northampton/PLAY-At-The-Palace-/Bassline-VS-Drum--Bass---Who-runs-the-decks-/42414278/"
+  },
+  {
+    "eventName": "Makino Ibiza with Monrroe [Drum \u0026 Bass, Jungle, 140]",
+    "eventDescription": "Makino events land on the island this summer, creating a space for Drum \u0026 Bass, Jungle, Breaks and 140 in Ibiza.",
+    "date": "2026-05-29",
+    "city": "Eivissa",
+    "venue": {
+      "venueName": "Sigma",
+      "address": "Calle de Carles V 11",
+      "city": "Eivissa"
+    },
+    "lineup": [],
+    "price": 5.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/spain/Sigma/Makino-Ibiza-with-Monrroe-Drum--Bass-Jungle-140/42393649/"
+  },
+  {
+    "eventName": "Rare Sounds: Drum \u0026 Bass, Dubstep, Garage \u0026 Techno | Bath",
+    "eventDescription": "Were once again taking over The Vault. So if you\u0027re looking for a night of heavy underground music in a great local venue then look no further!",
+    "date": "2026-05-29",
+    "city": "Bath",
+    "venue": {
+      "venueName": "St James Wine Vaults",
+      "address": "St James Street",
+      "city": "Bath"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Bath/St-James-Wine-Vaults/Rare-Sounds-Drum--Bass-Dubstep-Garage--Techno--Bath/42415663/"
+  },
+  {
+    "eventName": "Drum \u0026 Bass All Dayer - Canterbury",
+    "eventDescription": "Say Nothin\u0027 presents the huge Drum \u0026 Bass All Dayer in Canterbury with Amplify, Sub Zero, Logan D, Majistrate, Evil B, Harry Shotta + loads more!",
+    "date": "2026-06-06",
+    "city": "Canterbury",
+    "venue": {
+      "venueName": "The Venue Canterbury",
+      "address": "University Rd, Canterbury",
+      "city": "Canterbury"
+    },
+    "lineup": [],
+    "price": 5.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Canterbury/The-Venue-Canterbury/Drum--Bass-All-Dayer---Canterbury/42282703/"
+  },
+  {
+    "eventName": "London Something Drum \u0026 Bass: Kenny Ken, Kelvin 373, IC3 + More",
+    "eventDescription": "DJ Ron presents London Something, a Drum and Bass and Jungle club night taking place at Earth Kitchen in Hackney, London on Saturday 25th July 2026.",
+    "date": "2026-07-25",
+    "city": "London",
+    "venue": {
+      "venueName": "EartH (Evolutionary Arts Hackney)",
+      "address": "11_17 Stoke Newington Road",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 11.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/EartH-%28Evolutionary-Arts-Hackney%29/London-Something-Drum--Bass-Kenny-Ken-Kelvin-373-IC3--More/42413889/"
+  },
+  {
+    "eventName": "Hospitality On The Beach 2026 | A Drum \u0026 Bass Holiday",
+    "eventDescription": "Hospitality On The Beach is a drum \u0026 bass holiday uniting like-minded ravers from around the world to the beautiful shores of Tisno in Croatia.",
+    "date": "2026-07-01",
+    "city": "Tisno",
+    "venue": {
+      "venueName": "The Garden Resort, Tisno, Croatia",
+      "address": "Petrića glava 34",
+      "city": "Tisno"
+    },
+    "lineup": [],
+    "price": 250.0,
+    "ticketUrl": "https://www.skiddle.com/festivals/hospitality-on-the-beach/"
+  },
+  {
+    "eventName": "Subset Festival",
+    "eventDescription": "the only Drum \u0026 Bass festival in Switzerland!",
+    "date": "2026-07-10",
+    "city": "Wettingen",
+    "venue": {
+      "venueName": "Tägi",
+      "address": "Tägerhardstrasse 122",
+      "city": "Wettingen"
+    },
+    "lineup": [],
+    "price": 250.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/switzerland/T%C3%A4gi/Subset-Festival/42098429/"
+  },
+  {
+    "eventName": "Low \u0026 Level 33: 1991 [SUMMER ROOFTOP DAY PARTY]",
+    "eventDescription": "1/4 of Drum \u0026 Bass supergroup WORSHIP, 1991 joins us for our follow up drum \u0026 bass special on the rooftop",
+    "date": "2026-06-20",
+    "city": "Plymouth",
+    "venue": {
+      "venueName": "Level 33   Open Air Rooftop Venue And Club",
+      "address": "33 Bath Street, Plymouth",
+      "city": "Plymouth"
+    },
+    "lineup": [],
+    "price": 10.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Plymouth/Level-33---Open-Air-Rooftop-Venue-And-Club/Low--Level-33-1991-SUMMER-ROOFTOP-DAY-PARTY/42438699/"
+  },
+  {
+    "eventName": "Showroom Presents: DnB",
+    "eventDescription": "Showroom brings Drum and Bass to Birmingham! Expect hard-hitting drum \u0026 bass, top artists, and a dancefloor that wants to see your energy!",
+    "date": "2026-08-08",
+    "city": "Birmingham",
+    "venue": {
+      "venueName": "The Tunnel Club",
+      "address": "Livery Street",
+      "city": "Birmingham"
+    },
+    "lineup": [],
+    "price": 5.5,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Birmingham/The-Tunnel-Club/Showroom-Presents-DnB/42304771/"
+  },
+  {
+    "eventName": "Jungle Buoyz Promotions: SHAOLINS BDAY SHOWDOWN",
+    "eventDescription": "Jungle/ Drum and bass event held in nottingham, a night full of heavy rollers, jungle \u0026 drum and bass this one is not to be missed!",
+    "date": "2026-06-05",
+    "city": "Nottingham",
+    "venue": {
+      "venueName": "Billy Bootleggers Nottingham",
+      "address": "13-15 Weekday Cross",
+      "city": "Nottingham"
+    },
+    "lineup": [],
+    "price": 2.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Nottingham/Billy-Bootleggers-Nottingham/Jungle-Buoyz-Promotions-SHAOLINS-BDAY-SHOWDOWN/41961050/"
+  },
+  {
+    "eventName": "Velocity Soundz - Summer Slammer",
+    "eventDescription": "Drum and bass event @ basement 45 Bristol.\nMulti sub genres of drum and bass, pure vibes. \nDebut event for velocity soundz, not to be missed!",
+    "date": "2026-07-18",
+    "city": "Bristol",
+    "venue": {
+      "venueName": "Basement 45 Bristol",
+      "address": "8 Frogmore Street",
+      "city": "Bristol"
+    },
+    "lineup": [],
+    "price": 5.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Bristol/Basement-45-Bristol/Velocity-Soundz---Summer-Slammer/42415031/"
+  },
+  {
+    "eventName": "Insomnia London: House, Techno, DnB, Jungle",
+    "eventDescription": "House, Techno, Drum n Bass, Jungle, Breaks",
+    "date": "2026-05-28",
+    "city": "London",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "32-37 Cowper Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 5.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Insomnia-London-House-Techno-DnB-Jungle/42394083/"
+  },
+  {
+    "eventName": "ShuffleBox Weekend",
+    "eventDescription": "Two Nights Of Bass!  Friday - UK Garage, Saturday - Drum \u0026 Bass feat FMS",
+    "date": "2026-06-26",
+    "city": "Skegness",
+    "venue": {
+      "venueName": "The Hive Skegness",
+      "address": "3 grand parade ",
+      "city": "Skegness"
+    },
+    "lineup": [],
+    "price": 8.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Skegness/The-Hive-Skegness/ShuffleBox-Weekend/42327886/"
+  },
+  {
+    "eventName": "ADHDNB x PND x TDS x TSS PRESENT: BREAK + SUPPORT TBA",
+    "eventDescription": "Drum and bass icon Break heads to Suburbia this June!",
+    "date": "2026-06-26",
+    "city": "Southampton",
+    "venue": {
+      "venueName": "Suburbia Southampton",
+      "address": " 27-29 Onslow Rd, Southampton ",
+      "city": "Southampton"
+    },
+    "lineup": [],
+    "price": 8.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Suburbia-Southampton/ADHDNB-x-PND-x-TDS-x-TSS-PRESENT-BREAK--SUPPORT-TBA/42352273/"
+  },
+  {
+    "eventName": "Insomnia London: House, Techno, DnB, Jungle",
+    "eventDescription": "House, Techno, Drum n Bass, Jungle, Breaks",
+    "date": "2026-05-21",
+    "city": "London",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "32-37 Cowper Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Insomnia-London-House-Techno-DnB-Jungle/42393558/"
+  },
+  {
+    "eventName": "Wilderness Festival",
+    "eventDescription": "Wilderness is a celebration of the arts and the outdoors. Both wholesome and hedonistic, serene and silly.",
+    "date": "2026-07-30",
+    "city": "Charlbury",
+    "venue": {
+      "venueName": "Cornbury Park",
+      "address": "Charlbury, Oxfordshire",
+      "city": "Charlbury"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/festivals/wilderness/"
+  },
+  {
+    "eventName": "Insomnia London: House, Techno, DnB, Jungle",
+    "eventDescription": "House, Techno, Drum n Bass, Jungle, Breaks \u0026 more",
+    "date": "2026-06-25",
+    "city": "London",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "32-37 Cowper Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Insomnia-London-House-Techno-DnB-Jungle/42434818/"
+  },
+  {
+    "eventName": "Insomnia London: House, Techno, DnB, Jungle",
+    "eventDescription": "House, Techno, Drum n Bass, Jungle, Breaks \u0026 more",
+    "date": "2026-06-04",
+    "city": "London",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "32-37 Cowper Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Insomnia-London-House-Techno-DnB-Jungle/42434809/"
+  },
+  {
+    "eventName": "Insomnia London: House, Techno, DnB, Jungle",
+    "eventDescription": "House, Techno, Drum n Bass, Jungle, Breaks \u0026 more",
+    "date": "2026-06-18",
+    "city": "London",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "32-37 Cowper Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Insomnia-London-House-Techno-DnB-Jungle/42434817/"
+  },
+  {
+    "eventName": "ON A MISSION - Halloween",
+    "eventDescription": "The south Coasts biggest halloween Drum \u0026 Bass Party is back !",
+    "date": "2026-10-31",
+    "city": "Southampton",
+    "venue": {
+      "venueName": "EngineRooms",
+      "address": " West Quay Road, Southampton, SO15 1GZ",
+      "city": "Southampton"
+    },
+    "lineup": [],
+    "price": 10.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/ON-A-MISSION---Halloween/42081729/"
+  },
+  {
+    "eventName": "Insomnia London: House, Techno, DnB, Jungle",
+    "eventDescription": "House, Techno, Drum n Bass, Jungle, Breaks \u0026 more",
+    "date": "2026-06-11",
+    "city": "London",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "32-37 Cowper Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/XOYO/Insomnia-London-House-Techno-DnB-Jungle/42434812/"
+  },
+  {
+    "eventName": "Crystal Clear - 10 Years of Darker Tactics",
+    "eventDescription": "Full spectrum of Drum and Bass with Headliner Crystal Clear\nat Cafe Parfiat",
+    "date": "2026-07-10",
+    "city": "Southampton",
+    "venue": {
+      "venueName": "Cafe Parfait ",
+      "address": "194 Above Bar Street",
+      "city": "Southampton"
+    },
+    "lineup": [],
+    "price": 8.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/Cafe-Parfait-/Crystal-Clear---10-Years-of-Darker-Tactics/42172283/"
+  },
+  {
+    "eventName": "The Low End DnB - Crystal Clear",
+    "eventDescription": "The Low-end Drum and Bass event - Sat 13th June - 7 pm until 1 am. \nSpecial Guest - Crystal Clear \nOne of the hottest drum \u0026 bass Artists right now!",
+    "date": "2026-06-13",
+    "city": "Tunbridge Wells",
+    "venue": {
+      "venueName": "The Old Auction House In Tunbridge Wells",
+      "address": "Linden Park Road",
+      "city": "Tunbridge Wells"
+    },
+    "lineup": [],
+    "price": 12.5,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Tunbridge-Wells/The-Old-Auction-House-In-Tunbridge-Wells/The-Low-End-DnB---Crystal-Clear/42443782/"
+  },
+  {
+    "eventName": "SURGE X The Source Bar Presents: Amplify + Weejii \u0026 More",
+    "eventDescription": "Drum \u0026 Bass returns to The Source Bar this July with Amplify + Weejii \u0026 Many More.",
+    "date": "2026-07-18",
+    "city": "Maidstone",
+    "venue": {
+      "venueName": "The Source Bar (Courtyard)",
+      "address": "4-6 Rose Yard",
+      "city": "Maidstone"
+    },
+    "lineup": [],
+    "price": 8.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Maidstone/The-Source-Bar-%28Courtyard%29/SURGE-X-The-Source-Bar-Presents-Amplify--Weejii--More/42339860/"
+  },
+  {
+    "eventName": "ON A MISSION - New Years Eve 2026",
+    "eventDescription": "The south Coasts biggest New Years Eve Drum \u0026 Bass Party is back !",
+    "date": "2026-12-31",
+    "city": "Southampton",
+    "venue": {
+      "venueName": "EngineRooms",
+      "address": " West Quay Road, Southampton, SO15 1GZ",
+      "city": "Southampton"
+    },
+    "lineup": [],
+    "price": 10.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Southampton/EngineRooms/ON-A-MISSION---New-Years-Eve-2026/42081960/"
+  },
+  {
+    "eventName": "Drum Fusion Summer Special: DNB / Jungle Rave",
+    "eventDescription": "Back with a bang for another huge night of all things Drum \u0026 Bass!",
+    "date": "2026-06-19",
+    "city": "Coventry",
+    "venue": {
+      "venueName": "Ivy House",
+      "address": "44 Jordan Well",
+      "city": "Coventry"
+    },
+    "lineup": [],
+    "price": 5.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Coventry/Ivy-House/Drum-Fusion-Summer-Special-DNB--Jungle-Rave/42352285/"
+  },
+  {
+    "eventName": "Drumhaus 360° Summerslam - The Forum Hertfordshire",
+    "eventDescription": "360° Drum \u0026 Bass Day Rave | Upgraded Sound | Lasers, Confetti \u0026 Food Stalls",
+    "date": "2026-07-11",
+    "city": "Hatfield",
+    "venue": {
+      "venueName": "The Forum",
+      "address": "College Lane",
+      "city": "Hatfield"
+    },
+    "lineup": [],
+    "price": 10.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/St-Albans/The-Forum/Drumhaus-360-Summerslam---The-Forum-Hertfordshire/42309188/"
+  },
+  {
+    "eventName": "Easy Company Presents: Nesting Season",
+    "eventDescription": "Easy Company presents: Nesting season, a night of jungle minimal and rollers drum and bass.",
+    "date": "2026-05-21",
+    "city": "Bristol",
+    "venue": {
+      "venueName": "Lakota",
+      "address": "Lakota, 6 Upper York St, Stokes Croft, ",
+      "city": "Bristol"
+    },
+    "lineup": [],
+    "price": 5.5,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Bristol/Lakota/Easy-Company-Presents-Nesting-Season/42407829/"
+  },
+  {
+    "eventName": "AG Audio 08 : Aberystwyth Debut",
+    "eventDescription": "AG Audio lands in Aberystwyth for the very first time with a night dedicated to Drum \u0026 Bass and Jungle.",
+    "date": "2026-06-12",
+    "city": "Aberystwyth",
+    "venue": {
+      "venueName": "The Angel Inn",
+      "address": "57-59 Great Darkgate St",
+      "city": "Aberystwyth"
+    },
+    "lineup": [],
+    "price": 3.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Aberystwyth/The-Angel-Inn/AG-Audio-08--Aberystwyth-Debut/42423475/"
+  },
+  {
+    "eventName": "Inertia",
+    "eventDescription": "Inertia are proud to be putting on their first ever Inertia Bass day rave. This will include the finest UKG, Hard House and Drum and Bass.",
+    "date": "2026-06-20",
+    "city": "Derby",
+    "venue": {
+      "venueName": "Electric Daisy",
+      "address": "1-4 Bold Ln",
+      "city": "Derby"
+    },
+    "lineup": [],
+    "price": 4.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Derby/Electric-Daisy/Inertia/42447967/"
+  },
+  {
+    "eventName": "Diverted Sounds",
+    "eventDescription": "Summertime Mayhem! Breakbeat - Jungle - Drum \u0026 Bass - Acid Techno - Hard House - Hard Trance",
+    "date": "2026-06-27",
+    "city": "Plymouth",
+    "venue": {
+      "venueName": "Images",
+      "address": "89A Cornwall Street",
+      "city": "Plymouth"
+    },
+    "lineup": [],
+    "price": 2.5,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Plymouth/Images/Diverted-Sounds/42083826/"
+  },
+  {
+    "eventName": "Inception: SUBSONIC + DRZ \u0026 More | Nottingham",
+    "eventDescription": "Bass Syndicate presents: INCEPTION_\nA brand new dancefloor drum and bass Audio/Visual rave experience coming to Nottingham Friday 29th May 2026.",
+    "date": "2026-05-29",
+    "city": "Nottingham",
+    "venue": {
+      "venueName": "The Cell Nottingham",
+      "address": "22 Fletcher Gate",
+      "city": "Nottingham"
+    },
+    "lineup": [],
+    "price": 6.3,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Nottingham/The-Cell-Nottingham/Inception-SUBSONIC--DRZ--More--Nottingham/42142006/"
+  },
+  {
+    "eventName": "Lateral DnB Presents: Aphrodite",
+    "eventDescription": "Lateral presents jungle drum \u0026 bass legend - Aprhodite @ Things Happen Here. [90 Minute Set]",
+    "date": "2026-10-03",
+    "city": "Totnes",
+    "venue": {
+      "venueName": "Things Happen Here",
+      "address": "Shinners Bridge",
+      "city": "Totnes"
+    },
+    "lineup": [],
+    "price": 8.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Torquay/Things-Happen-Here/Lateral-DnB-Presents-Aphrodite/42099289/"
+  },
+  {
+    "eventName": "Planet V Brighton | Summer All Dayer",
+    "eventDescription": "V Recordings \u0026 Def:inition present 2 Arenas of Drum \u0026 Bass including Liquid V on the Outdoor Terrace!",
+    "date": "2026-08-29",
+    "city": "Brighton",
+    "venue": {
+      "venueName": "The Concorde 2",
+      "address": "286A Madeira Drive",
+      "city": "Brighton"
+    },
+    "lineup": [],
+    "price": 11.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Brighton/The-Concorde-2/Planet-V-Brighton--Summer-All-Dayer/42349594/"
+  },
+  {
+    "eventName": "HEAVY ROTATION 004 @ Rolling Stock",
+    "eventDescription": "Heavy Rotation brings their next party to The Bunker at Rolling Stock! Garage, Jungle, Breaks \u0026 Drum and Bass.",
+    "date": "2026-07-31",
+    "city": "London",
+    "venue": {
+      "venueName": "Rolling Stock The Bunker",
+      "address": "48 Kingsland Road",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 7.5,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/Rolling-Stock-The-Bunker/HEAVY-ROTATION-004--Rolling-Stock/42436113/"
+  },
+  {
+    "eventName": "Machine Gun Events X Ignite The Rave",
+    "eventDescription": "Machine Gun Events presents a night of Drum \u0026 Bass, energy and good vibes. Salisbury, 30th May. Be there.",
+    "date": "2026-05-30",
+    "city": "Salisbury",
+    "venue": {
+      "venueName": "Balkan Nightclub And Sports Bar",
+      "address": "70 New Canal",
+      "city": "Salisbury"
+    },
+    "lineup": [],
+    "price": 12.5,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Salisbury/Balkan-Nightclub-And-Sports-Bar/Machine-Gun-Events-X-Ignite-The-Rave/42340000/"
+  },
+  {
+    "eventName": "Perception meets Broken Minds",
+    "eventDescription": "Broken Minds goes on tour and is teaming up with Shrewsburys longest running Drum \u0026 Bass event, Perception",
+    "date": "2026-09-25",
+    "city": "SHREWSBURY",
+    "venue": {
+      "venueName": "SHREWSBURY   THE BUTTERMARKET",
+      "address": "HOWARD ST",
+      "city": "SHREWSBURY"
+    },
+    "lineup": [],
+    "price": 12.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Shrewsbury/SHREWSBURY---THE-BUTTERMARKET/Perception-meets-Broken-Minds/42439441/"
+  },
+  {
+    "eventName": "Dufair: Jungle Club Night",
+    "eventDescription": "Salah Soundsystem in a Jungle Drum n Bass style. \n\nThis June we are going deep into the jungle with high-power, horn-loaded bass to mash up the place!",
+    "date": "2026-06-06",
+    "city": "Belfast",
+    "venue": {
+      "venueName": "Oh Yeah Music Centre",
+      "address": "15-21 Gordon Street",
+      "city": "Belfast"
+    },
+    "lineup": [],
+    "price": 10.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Belfast/Oh-Yeah-Music-Centre/Dufair-Jungle-Club-Night/42341802/"
+  },
+  {
+    "eventName": "My Love Events",
+    "eventDescription": "Rave series, bringing you the best in drum n bass, jungle, breakbeat, ravehouse and hardcore",
+    "date": "2026-10-10",
+    "city": "Southend-on-Sea",
+    "venue": {
+      "venueName": "Sunrooms2 Southend On Sea",
+      "address": "20-21 Market Place",
+      "city": "Southend-on-Sea"
+    },
+    "lineup": [],
+    "price": 10.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Southend-on-Sea/Sunrooms2-Southend-On-Sea/My-Love-Events/42376303/"
+  },
+  {
+    "eventName": "Duck DnB: On The Roof (Free Rave)",
+    "eventDescription": "Come up to the roof of the iconic space at XOYO for some heavy Drum and Bass artists \u0026 local supporting talent",
+    "date": "2026-05-22",
+    "city": "Birmingham",
+    "venue": {
+      "venueName": "XOYO",
+      "address": "Lower Trinity Street, Deritend",
+      "city": "Birmingham"
+    },
+    "lineup": [],
+    "price": 0.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Birmingham/XOYO/Duck-DnB-On-The-Roof-Free-Rave/42329943/"
+  },
+  {
+    "eventName": "Bush Doctor 32",
+    "eventDescription": "We have booked massive line up with some of the UK\u0027s top Jungle and Drum and Bass DJ\u0027s and MC\u0027s",
+    "date": "2026-06-06",
+    "city": "Nottingham",
+    "venue": {
+      "venueName": "NG ONE Night Club",
+      "address": "76-80 Lower Parliament Street",
+      "city": "Nottingham"
+    },
+    "lineup": [],
+    "price": 5.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Nottingham/NG-ONE-Night-Club/Bush-Doctor-32/41907449/"
+  },
+  {
+    "eventName": "100th Monkey 13th June 2026",
+    "eventDescription": "A night filled with DJs and live bands perfming a variety of music including Drum and Bass / Jungle / Breaks and more",
+    "date": "2026-06-13",
+    "city": "Liverpool",
+    "venue": {
+      "venueName": "The Bakery",
+      "address": "136 Marvin St, Kensington",
+      "city": "Liverpool"
+    },
+    "lineup": [],
+    "price": 15.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Liverpool/The-Bakery/100th-Monkey-13th-June-2026/42443586/"
+  },
+  {
+    "eventName": "Harriet Jaxxon presents: T1D // Manchester - A DnB Fundraiser",
+    "eventDescription": "Harriet Jaxxon presents: T1D // Manchester - A drum \u0026 bass fundraiser for type 1 diabetes with Type One Community.",
+    "date": "2026-07-30",
+    "city": "Manchester",
+    "venue": {
+      "venueName": "Joshua Brooks",
+      "address": "106 Princess Street",
+      "city": "Manchester"
+    },
+    "lineup": [],
+    "price": 8.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Manchester/Joshua-Brooks/Harriet-Jaxxon-presents-T1D--Manchester---A-DnB-Fundraiser/42449887/"
+  },
+  {
+    "eventName": "HIT \u0026 RUN presents PENDULUM (DJ) @ Progress",
+    "eventDescription": "HIT \u0026 RUN take over Manchester\u0027s Progress for a drum \u0026 bass day party with the one and only PENDULUM.",
+    "date": "2026-05-23",
+    "city": "Manchester",
+    "venue": {
+      "venueName": "Progress",
+      "address": "Charlton Pl",
+      "city": "Manchester"
+    },
+    "lineup": [],
+    "price": 15.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Manchester/Progress/HIT--RUN-presents-PENDULUM-DJ--Progress/42261491/"
+  },
+  {
+    "eventName": "Forever Bass #2",
+    "eventDescription": "FOREVER BASS returns with a high-energy 360° Drum \u0026 Bass \u0026 Jungle experience at Last Arch, Wandsworth on Saturday 23rd May 2026. From 9PM-3AM,",
+    "date": "2026-05-23",
+    "city": "London",
+    "venue": {
+      "venueName": "Last Arch",
+      "address": "392 Wandsworth Road",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 0.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/Last-Arch/Forever-Bass-2/42415129/"
+  },
+  {
+    "eventName": "Keeno LIVE ft. Vibre Strings",
+    "eventDescription": "Keeno \u0026 Vibre Strings proudly present a 100% LIVE DRUM \u0026 BASS EVENT featuring live piano + string quartet.",
+    "date": "2026-11-28",
+    "city": "London",
+    "venue": {
+      "venueName": "Village Underground",
+      "address": "54 Holywell Lane",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 15.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/Village-Underground/Keeno-LIVE-ft-Vibre-Strings/42364133/"
+  },
+  {
+    "eventName": "Breakin Science \u0026 Drumatics Leeds",
+    "eventDescription": "Breakin Science returns to Leeds after an 8 year absence, this time alongside Drumatics for a night of underground Drum \u0026 Bass!",
+    "date": "2026-09-25",
+    "city": "Leeds",
+    "venue": {
+      "venueName": "O2 Academy",
+      "address": "55 Cookridge Street",
+      "city": "Leeds"
+    },
+    "lineup": [],
+    "price": 11.95,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Leeds/O2-Academy/Breakin-Science--Drumatics-Leeds/42427155/"
+  },
+  {
+    "eventName": "Electronic Mischief",
+    "eventDescription": "Electronic Mischief takes over E1 London for a  night of underground electronic music, bringing together Tech House and Drum \u0026 Bass.",
+    "date": "2026-07-17",
+    "city": "London",
+    "venue": {
+      "venueName": "E1",
+      "address": "110 Pennington Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 10.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/E1/Electronic-Mischief/42138329/"
+  },
+  {
+    "eventName": "DNB Spotlight presents: Sub Zero \u0026 Shabba D",
+    "eventDescription": "DNB Spotlight invite two huge legends in the drum and bass scene to Bolton. This one is going to be one to remember..",
+    "date": "2026-09-19",
+    "city": "Farnworth Bolton",
+    "venue": {
+      "venueName": "Underground",
+      "address": "105 market Street",
+      "city": "Farnworth Bolton"
+    },
+    "lineup": [],
+    "price": 0.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Bolton/Underground/DNB-Spotlight-presents-Sub-Zero--Shabba-D/42443599/"
+  },
+  {
+    "eventName": "Jamolations Launch Party",
+    "eventDescription": "Jump Up drum and bass in the heart of Brighton \n\nLine up is stacked more TBA just you wait",
+    "date": "2026-09-04",
+    "city": "Brighton",
+    "venue": {
+      "venueName": "Quarters Brighton",
+      "address": "187-193 Kings Road  United Kingdom",
+      "city": "Brighton"
+    },
+    "lineup": [],
+    "price": 0.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Brighton/Quarters-Brighton/Jamolations-Launch-Party/42403172/"
+  },
+  {
+    "eventName": "Pola \u0026 Bryson: Overgrown Portsmouth w. Unglued / Spectral / XL",
+    "eventDescription": "Pola \u0026 Bryson bring their Overgrown tour to Yard \u0026 Warehouse Portsmouth May 30th. Expect a big night of Drum n Bass",
+    "date": "2026-05-30",
+    "city": "Portsmouth",
+    "venue": {
+      "venueName": "Pitt St Indoor Skatepark",
+      "address": "315 Commercial Rd, Portsmouth",
+      "city": "Portsmouth"
+    },
+    "lineup": [],
+    "price": 5.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Portsmouth/Pitt-St-Indoor-Skatepark/Pola--Bryson-Overgrown-Portsmouth-w-Unglued--Spectral--XL/42127735/"
+  },
+  {
+    "eventName": "Formwave - Ignition",
+    "eventDescription": "Formwave is proud to present it\u0027s first ever event: IGNITION\nBringing you the best of Drum and bass for a night of pure energy",
+    "date": "2026-06-20",
+    "city": "Birmingham",
+    "venue": {
+      "venueName": "Tunnel Club Birmingham",
+      "address": "Livery street Birmingham",
+      "city": "Birmingham"
+    },
+    "lineup": [],
+    "price": 10.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Birmingham/Tunnel-Club-Birmingham/Formwave---Ignition/42135934/"
+  },
+  {
+    "eventName": "Murmur Yard Party : L-Side, Uncle Dugs \u0026 Katalyst",
+    "eventDescription": "murmur takes to the street for a huge open air drum and bass rave, featuring L-Side, Uncle Dugs, Katalyst + more.",
+    "date": "2026-06-13",
+    "city": "Northampton",
+    "venue": {
+      "venueName": "The Black Prince",
+      "address": "15 Abington Square",
+      "city": "Northampton"
+    },
+    "lineup": [],
+    "price": 6.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Northampton/The-Black-Prince/Murmur-Yard-Party--L-Side-Uncle-Dugs--Katalyst/42101544/"
+  },
+  {
+    "eventName": "Jamolations Pop up",
+    "eventDescription": "We\u0027re bringing a night of high energy drum and bass to the heart of Manchester with a stacked line up, along with A DJ Competition winner",
+    "date": "2026-06-20",
+    "city": "Manchester",
+    "venue": {
+      "venueName": "Off The Square Manchester",
+      "address": "65-67 Lever Street",
+      "city": "Manchester"
+    },
+    "lineup": [],
+    "price": 6.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Manchester/Off-The-Square-Manchester/Jamolations-Pop-up/42441759/"
+  },
+  {
+    "eventName": "WAH in the City 2026 | Silverworks Island w/ Pendulum LIVE",
+    "eventDescription": "Worried About Henry returns to Silverworks Island on Sunday 5th July for the UK\u0027s biggest Drum \u0026 Bass Festival in the heart of London\u0027s docklands.",
+    "date": "2026-07-05",
+    "city": "London",
+    "venue": {
+      "venueName": "Silverworks Island",
+      "address": "Silvertown Square, Royal Victoria Dock -  (please use Custom House Entrance )",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 42.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/Silverworks-Island/WAH-in-the-City-2026--Silverworks-Island-w-Pendulum-LIVE/41608035/"
+  },
+  {
+    "eventName": "INJM Fest",
+    "eventDescription": "AUGUST 22ND - THE SOUND OF THE UNDERGROUND \n\nFrom 12PM - 10PM, step into a full day of pure Drum \u0026 Bass and Jungle energy. Heavy basslines!",
+    "date": "2026-08-22",
+    "city": "Royston",
+    "venue": {
+      "venueName": "Eternit Sport And Social Club",
+      "address": "Whaddon Road",
+      "city": "Royston"
+    },
+    "lineup": [],
+    "price": 0.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Stevenage/Eternit-Sport-And-Social-Club/INJM-Fest/42333084/"
+  },
+  {
+    "eventName": "INJM Fest",
+    "eventDescription": "AUGUST 22ND - THE SOUND OF THE UNDERGROUND \n\nFrom 12PM - 10PM, step into a full day of pure Drum \u0026 Bass and Jungle energy. Heavy basslines!",
+    "date": "2026-08-22",
+    "city": "Hitchin",
+    "venue": {
+      "venueName": "The Garage Hitchin",
+      "address": "50A Walsworth Road",
+      "city": "Hitchin"
+    },
+    "lineup": [],
+    "price": 10.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Stevenage/The-Garage-Hitchin/INJM-Fest/42255049/"
+  },
+  {
+    "eventName": "Disorder presents: Dillinja \u0026 Mrs Magoo",
+    "eventDescription": "Drum \u0026 bass royalty, Dillinja and Mrs Magoo headline The Bongo Club Friday 22nd May bank holiday weekend.",
+    "date": "2026-05-22",
+    "city": "Edinburgh",
+    "venue": {
+      "venueName": "The Bongo Club",
+      "address": "66 Cowgate",
+      "city": "Edinburgh"
+    },
+    "lineup": [],
+    "price": 10.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Edinburgh/The-Bongo-Club/Disorder-presents-Dillinja--Mrs-Magoo/42270649/"
+  },
+  {
+    "eventName": "Music Is The Answer",
+    "eventDescription": "Progressive grooves, garage and electronic, finishing with high energy drum and bass. Music first.\n\nFind us on instragram: @mita_nights",
+    "date": "2026-05-22",
+    "city": "Bournemouth",
+    "venue": {
+      "venueName": "Bearcave",
+      "address": "24-26 Holdenhurst Road",
+      "city": "Bournemouth"
+    },
+    "lineup": [],
+    "price": 0.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Bournemouth/Bearcave/Music-Is-The-Answer/42093814/"
+  },
+  {
+    "eventName": "LSB at Venue MOT",
+    "eventDescription": "A cult figure in the drum \u0026 bass \u0026 liquid scenes, LSB brings his deeply emotive take on DnB to Venue MOT.",
+    "date": "2026-07-18",
+    "city": "Lonon",
+    "venue": {
+      "venueName": "Venue MOT",
+      "address": "Unit 18, Orion Business Centre, Surrey Canal Rd, ",
+      "city": "Lonon"
+    },
+    "lineup": [],
+    "price": 15.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/Venue-MOT/LSB-at-Venue-MOT/42403144/"
+  },
+  {
+    "eventName": "TRNSLUCNT PRESENTS: BISH x NERSHA - CARDIFF",
+    "eventDescription": "TRNSLUCNT presents Bish \u0026 Nersha live at Six Feet Under, Cardiff. Expect high energy drum \u0026 bass all night long.",
+    "date": "2026-07-24",
+    "city": "Cardiff",
+    "venue": {
+      "venueName": "Six Feet Under",
+      "address": "93-94 St. Mary Street",
+      "city": "Cardiff"
+    },
+    "lineup": [],
+    "price": 7.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Cardiff/Six-Feet-Under/TRNSLUCNT-PRESENTS-BISH-x-NERSHA---CARDIFF/42276828/"
+  },
+  {
+    "eventName": "Gradient.",
+    "eventDescription": "gradient. is a new concept designed to take ravers on a journey from the most soulful shades of drum \u0026 bass to its darker, heavier edge.",
+    "date": "2026-06-13",
+    "city": "Birmingham",
+    "venue": {
+      "venueName": "SUKi10C",
+      "address": "21 Bordesley Street",
+      "city": "Birmingham"
+    },
+    "lineup": [],
+    "price": 5.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Birmingham/SUKi10C/Gradient/42342152/"
+  },
+  {
+    "eventName": "INJM Fest",
+    "eventDescription": "AUGUST 21st - THE SOUND OF THE UNDERGROUND \n\nFrom 12PM - 10PM, step into a full day of pure Drum \u0026 Bass and Jungle energy. Heavy basslines!",
+    "date": "2027-08-21",
+    "city": "Royston",
+    "venue": {
+      "venueName": "Eternit Sport And Social Club",
+      "address": "Whaddon Road",
+      "city": "Royston"
+    },
+    "lineup": [],
+    "price": 10.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Stevenage/Eternit-Sport-And-Social-Club/INJM-Fest/42333084/"
+  },
+  {
+    "eventName": "Interstellar Audio: Transmissions | May 2026",
+    "eventDescription": "A free-entry event with top-tier sound, curated lineups \u0026 a community focused vibe. Showcasing Deep, Dark \u0026 Soulful Drum \u0026 Bass.",
+    "date": "2026-05-28",
+    "city": "Nottingham",
+    "venue": {
+      "venueName": "The Chapel, The Angel Microbrewery",
+      "address": "7 Stoney Street",
+      "city": "Nottingham"
+    },
+    "lineup": [],
+    "price": 0.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Nottingham/The-Chapel%2C-The-Angel-Microbrewery/Interstellar-Audio-Transmissions--May-2026/42408954/"
+  },
+  {
+    "eventName": "DnBFrequency",
+    "eventDescription": "DnbFrequency lands in Maidstone for a high-energy night dedicated to pure drum \u0026 bass. Expect a heavy lineup TBA!\n\n18+ | Tickets available",
+    "date": "2026-06-19",
+    "city": "Maidstone",
+    "venue": {
+      "venueName": "Balling",
+      "address": "87-88 Bank Street",
+      "city": "Maidstone"
+    },
+    "lineup": [],
+    "price": 15.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Maidstone/Balling/DnBFrequency/42397260/"
+  },
+  {
+    "eventName": "SunDayzed Brighton 2026",
+    "eventDescription": "Brighton\u0027s premier 16-hour Drum \u0026 Bass street party! 8 hours outside the legendary Volks Nightclub, then 8 hours inside.",
+    "date": "2026-06-13",
+    "city": "Brighton",
+    "venue": {
+      "venueName": "The Volks Nightclub",
+      "address": "1-3 Madeira Drive",
+      "city": "Brighton"
+    },
+    "lineup": [],
+    "price": 15.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Brighton/The-Volks-Nightclub/SunDayzed-Brighton-2026/42081196/"
+  },
+  {
+    "eventName": "Back To Your Roots",
+    "eventDescription": "Back to Your Roots: Hereford-born drum \u0026 bass DJs return home for a high-energy night celebrating where their journey began.",
+    "date": "2026-05-22",
+    "city": "Hereford",
+    "venue": {
+      "venueName": "The Kerry Hereford",
+      "address": "1-2 Commercial Street",
+      "city": "Hereford"
+    },
+    "lineup": [],
+    "price": 6.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Hereford/The-Kerry-Hereford/Back-To-Your-Roots/42296555/"
+  },
+  {
+    "eventName": "Monrroe \u0026 Duskee | Big Enough Reason Tour | Portsmouth",
+    "eventDescription": "On Saturday 23rd May, Monrroe \u0026 Duskee\u0027s Big Enough Reason UK Tour lands at Portsmouth\u0027s home of underground Drum \u0026 Bass, KOLA Club.",
+    "date": "2026-05-23",
+    "city": "Southsea",
+    "venue": {
+      "venueName": "KOLA ‘formerly Moonshine Club‘",
+      "address": "1 Granada Road",
+      "city": "Southsea"
+    },
+    "lineup": [],
+    "price": 10.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Portsmouth/KOLA-%E2%80%98formerly-Moonshine-Club%E2%80%98/Monrroe--Duskee--Big-Enough-Reason-Tour--Portsmouth/42094066/"
+  },
+  {
+    "eventName": "Hospitality Weekender 2027",
+    "eventDescription": "Your three day DNB winter getaway on the South Coast, transforming a legendary South Coast holiday resort into the ultimate Drum \u0026 Bass village.",
+    "date": "2027-03-12",
+    "city": "Bognor Regis",
+    "venue": {
+      "venueName": "Butlins Bognor Regis Resort",
+      "address": "Upper Bognor Road, Bognor Regis",
+      "city": "Bognor Regis"
+    },
+    "lineup": [],
+    "price": 0.0,
+    "ticketUrl": "https://www.skiddle.com/festivals/hospitality-weekender/"
+  },
+  {
+    "eventName": "NBG - Bristol \u0027The Return\u0027 16+",
+    "eventDescription": "NBG are back in Bristol for another huge night of drum n bass. Amplify \u0026 Mc Basher, Dj Millz + loads more!",
+    "date": "2026-05-26",
+    "city": "Bristol",
+    "venue": {
+      "venueName": "The Full Moon And Attic Bar",
+      "address": "1 North Street",
+      "city": "Bristol"
+    },
+    "lineup": [],
+    "price": 10.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Bristol/The-Full-Moon-And-Attic-Bar/NBG---Bristol-The-Return-16/42321792/"
+  },
+  {
+    "eventName": "Bruised In The Suburbs Day Party",
+    "eventDescription": "Bruised Records teams up with Abstract Audio to take over Suburbs for a high-energy day party dedicated to pure, unfiltered drum \u0026 bass.",
+    "date": "2026-05-30",
+    "city": "Guildford",
+    "venue": {
+      "venueName": "The Holroyd Arms",
+      "address": "36 Aldershot Road",
+      "city": "Guildford"
+    },
+    "lineup": [],
+    "price": 4.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Guildford/The-Holroyd-Arms/Bruised-In-The-Suburbs-Day-Party/42371693/"
+  },
+  {
+    "eventName": "Syd Far-I Forever Presents FFF + Decibella",
+    "eventDescription": "Join us for a night of premium Jungle, Drum and Bass and Dub as we celebrate and honour the life and legacy of Stefan Hoyle at the Hulme Niamos Centre",
+    "date": "2026-06-13",
+    "city": "Manchester",
+    "venue": {
+      "venueName": "The Nia Centre  NIAMOS",
+      "address": "Chichester Road",
+      "city": "Manchester"
+    },
+    "lineup": [],
+    "price": 10.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Manchester/The-Nia-Centre--NIAMOS/Syd-Far-I-Forever-Presents-FFF--Decibella/42400512/"
+  },
+  {
+    "eventName": "Dance Panic \u0026 Nicky Blackmarket",
+    "eventDescription": "Back by popular demand. He needs no introduction. DJ Nicky Blackmarket - drum and bass legend from the blackmarket records stables in soho London.",
+    "date": "2026-05-29",
+    "city": "Burton-on-Trent",
+    "venue": {
+      "venueName": "Prince Of Brewers",
+      "address": "152 High Street",
+      "city": "Burton-on-Trent"
+    },
+    "lineup": [],
+    "price": 5.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Derby/Prince-Of-Brewers/Dance-Panic--Nicky-Blackmarket/42326317/"
+  },
+  {
+    "eventName": "Unearthed Festival 2026",
+    "eventDescription": "Unearthed Festival returns - roots, reggae, dub, drum \u0026 bass, hip hop, folk \u0026 psych across three days of music and community  in Pembrokeshire.",
+    "date": "2026-06-19",
+    "city": "Solva",
+    "venue": {
+      "venueName": "Yurt Field, Near St. Davids",
+      "address": "Yurt Field, nr Solva, Haverfordwest, SA62 6YE",
+      "city": "Solva"
+    },
+    "lineup": [],
+    "price": 0.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Swansea/Yurt-Field%2C-Near-St.-Davids/Unearthed-Festival-2026/42439204/"
+  },
+  {
+    "eventName": "FIRSTY FRIDAYS - With NICKY BLACKMARKET",
+    "eventDescription": "Hackneys best drum n bass night, First Friday of each month @ Club Makossa\nThis time round with the legend NICKY BLACKMARKET headlining",
+    "date": "2026-06-05",
+    "city": "London",
+    "venue": {
+      "venueName": "Club Makossa",
+      "address": "113 Kingsland High Street",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 8.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/Club-Makossa/FIRSTY-FRIDAYS---With-NICKY-BLACKMARKET/42410746/"
+  },
+  {
+    "eventName": "DNB360 \u0026 Noise Enforcment - ONE DAY OUTDOOR FESTIVAL-Stourbridge",
+    "eventDescription": "DNB360 \u0026 NOISE ENFORCEMENT PRESENT: \n\nONE DAY DRUM \u0026 BASS/BASSLINE/GARAGE OUTDOOR FESTIVAL\n\nAT THE PRESTIEGEOUS WAXEY GORDON\u0027S (OLD SADLER\u0027S BREWERY)",
+    "date": "2026-07-25",
+    "city": "Lye",
+    "venue": {
+      "venueName": "Waxey Gordons",
+      "address": "Unit 2b (Old Sadlers Bar) Conyers Trading Estate",
+      "city": "Lye"
+    },
+    "lineup": [],
+    "price": 12.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Stourbridge/Waxey-Gordons/DNB360--Noise-Enforcment---ONE-DAY-OUTDOOR-FESTIVAL-Stourbridge/42358498/"
+  },
+  {
+    "eventName": "Circadian: Circuits",
+    "eventDescription": "Brighton Drum\u0026Bass heavyweight Circadian with his first UK headline show @ The Spiegeltent. A truly unique setting for a one-of-a-kind D\u0026B experience.",
+    "date": "2026-05-23",
+    "city": "Brighton",
+    "venue": {
+      "venueName": "Brighton Spiegeltent",
+      "address": "Brighton Spiegeltent Old Steine Gardens",
+      "city": "Brighton"
+    },
+    "lineup": [],
+    "price": 5.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Brighton/Brighton-Spiegeltent/Circadian-Circuits/42147522/"
+  },
+  {
+    "eventName": "Common Ground x Cortino",
+    "eventDescription": "Next round at Shop with No Name.\nThis time with Cortino, the barrel-aged coffee roasters.\nCold brew flowing, music upfront.\nHouse, Drum\u0026Bass, UKG.",
+    "date": "2026-06-06",
+    "city": "Edinburgh",
+    "venue": {
+      "venueName": "Shop With No Name",
+      "address": "2A Broughton Place",
+      "city": "Edinburgh"
+    },
+    "lineup": [],
+    "price": 10.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Edinburgh/Shop-With-No-Name/Common-Ground-x-Cortino/42437718/"
+  },
+  {
+    "eventName": "RC DnB w/ S.P.Y + MC LOWQUI (90 mins), LOWQUI DJ Set, SOLA ++",
+    "eventDescription": "Riddim Culture\u0027s 2nd instalment of 2026 brings Drum and Bass Legend S.P.Y to Manchester for an intimate 400 capacity show alongside MC LOWQUI, SOLA +",
+    "date": "2026-06-05",
+    "city": "Manchester",
+    "venue": {
+      "venueName": "Rebellion",
+      "address": "2B Whitworth Street West,  Manchester, United Kingdom",
+      "city": "Manchester"
+    },
+    "lineup": [],
+    "price": 12.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Manchester/Rebellion/RC-DnB-w-SPY--MC-LOWQUI-90-mins-LOWQUI-DJ-Set-SOLA-/42147235/"
+  },
+  {
+    "eventName": "INVADED: Come Bk Party",
+    "eventDescription": "The invaded come back party has arrived at the castle E1 \nheavy weight sounds, dark energy bass and dark drums to take you away",
+    "date": "2026-06-26",
+    "city": "London",
+    "venue": {
+      "venueName": "The Castle",
+      "address": "44 Commercial Road",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 0.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/The-Castle/INVADED-Come-Bk-Party/42340702/"
+  },
+  {
+    "eventName": "UCOJ: Heatwave Day Party",
+    "eventDescription": "British Summertime just got a little bit hotter as UCOJ takes over Brixton Jamm for a day of Jungle and Drum and Bass in the sun.",
+    "date": "2026-08-01",
+    "city": "London",
+    "venue": {
+      "venueName": "Brixton Jamm",
+      "address": "261 Brixton Road",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 15.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/Brixton-Jamm/UCOJ-Heatwave-Day-Party/42418083/"
+  },
+  {
+    "eventName": "Crate Diggerz Presents Nicky Blackmarket",
+    "eventDescription": "After a short break, Crete Diggerz returns to its new home. Expect the best in old school jungle and classic drum \u0026 bass.",
+    "date": "2026-08-07",
+    "city": "Birmingham",
+    "venue": {
+      "venueName": "Hare And Hounds Kings Heath",
+      "address": "106 High Street, Kings Heath",
+      "city": "Birmingham"
+    },
+    "lineup": [],
+    "price": 8.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Birmingham/Hare-And-Hounds-Kings-Heath/Crate-Diggerz-Presents-Nicky-Blackmarket/42434978/"
+  },
+  {
+    "eventName": "Bakery Bash - Jam and Meme",
+    "eventDescription": "Kernow Sounds presents: The Bakery Bash - a high-energy Drum \u0026 Bass night taking over Old Bakery Studios, Truro - Headliner JAM AND MEME",
+    "date": "2026-08-19",
+    "city": "Truro",
+    "venue": {
+      "venueName": "Old Bakery Studios Truro",
+      "address": "Blewett\u0026#39;s Wharf, Malpas Rd",
+      "city": "Truro"
+    },
+    "lineup": [],
+    "price": 0.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Truro/Old-Bakery-Studios-Truro/Bakery-Bash---Jam-and-Meme/42366247/"
+  },
+  {
+    "eventName": "Phase Records DNB Presents: Underground Union II - Summer Party",
+    "eventDescription": "We\u0027re back in Haggerston bringing you all the vibes all day long with underground, grassroots, real drum and bass music celebrsting one scene!",
+    "date": "2026-08-29",
+    "city": "London",
+    "venue": {
+      "venueName": "Signature Brew Haggerston",
+      "address": "340 Acton Mews",
+      "city": "London"
+    },
+    "lineup": [],
+    "price": 5.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/London/Signature-Brew-Haggerston/Phase-Records-DNB-Presents-Underground-Union-II---Summer-Party/42326431/"
+  },
+  {
+    "eventName": "Rulebreakerz Dark Side",
+    "eventDescription": "Drum n Bass/Jungle day rave in Clacton on sea! With the best line up of local DJs inc a live RBKZ set, \u0026 headlining mcs!",
+    "date": "2026-06-20",
+    "city": "Clacton-on-Sea",
+    "venue": {
+      "venueName": "Aldersgate Arms",
+      "address": "85 Carnarvon Road",
+      "city": "Clacton-on-Sea"
+    },
+    "lineup": [],
+    "price": 5.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Clacton-on-Sea/Aldersgate-Arms/Rulebreakerz-Dark-Side/42079452/"
+  },
+  {
+    "eventName": "Causing A Riot: Georgie Riot\u0027s Birthday Bash",
+    "eventDescription": "Riot Records present Causing A Riot...\nGeorgie Riot\u0027s Birthday Bash! \n\nWHAT TO EXPECT? DRUM \u0026 BASS: JUMPUP, DANCE FLOOR, 4X4, MINIMAL, JUNGLE \u0026 MORE.",
+    "date": "2026-05-23",
+    "city": "Coventry",
+    "venue": {
+      "venueName": "Kasbah Nightclub",
+      "address": "Primrose Hill Street",
+      "city": "Coventry"
+    },
+    "lineup": [],
+    "price": 0.0,
+    "ticketUrl": "https://www.skiddle.com/whats-on/Coventry/Kasbah-Nightclub/Causing-A-Riot-Georgie-Riots-Birthday-Bash/41982415/"
+  }
+]

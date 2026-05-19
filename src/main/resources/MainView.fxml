@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml"
+            fx:controller="com.app.ui.MainViewController"
+            prefWidth="900" prefHeight="600">
+
+    <top>
+        <VBox style="-fx-background-color: #1a1a2e; -fx-padding: 16;">
+            <Label text="DnB Events Tracker"
+                   style="-fx-text-fill: white; -fx-font-size: 22px; -fx-font-weight: bold;"/>
+            <Label text="Powered by Skiddle"
+                   style="-fx-text-fill: #888888; -fx-font-size: 12px;"/>
+        </VBox>
+    </top>
+
+    <center>
+        <TabPane tabClosingPolicy="UNAVAILABLE">
+            <Tab text="All Events">
+                <VBox spacing="10" style="-fx-padding: 16;">
+
+                    <HBox spacing="10">
+                        <Button text="Fetch from Skiddle"
+                                onAction="#onFetchFromSkiddle"
+                                style="-fx-background-color: #e94560; -fx-text-fill: white; -fx-font-weight: bold;"/>
+                        <Button text="Remove Selected"
+                                onAction="#onRemoveSelected"
+                                style="-fx-background-color: #444; -fx-text-fill: white;"/>
+                        <Button text="Refresh"
+                                onAction="#onRefresh"
+                                style="-fx-background-color: #444; -fx-text-fill: white;"/>
+                        <Button text="Add Event"
+                                onAction="#onAddEvent"
+                                style="-fx-background-color: #e94560; -fx-text-fill: white; -fx-font-weight: bold;"/>
+                        <Label fx:id="eventsCountLabel"
+                               style="-fx-text-fill: #555; -fx-padding: 0 0 0 10;"/>
+                    </HBox>
+
+                    <TableView fx:id="eventsTable" VBox.vgrow="ALWAYS">
+                        <columns>
+                            <TableColumn fx:id="colName"  text="Event Name" prefWidth="260"/>
+                            <TableColumn fx:id="colDate"  text="Date"       prefWidth="110"/>
+                            <TableColumn fx:id="colCity"  text="City"       prefWidth="120"/>
+                            <TableColumn fx:id="colVenue" text="Venue"      prefWidth="200"/>
+                            <TableColumn fx:id="colPrice" text="Price (£)"  prefWidth="90"/>
+                        </columns>
+                        <placeholder>
+                            <Label text="No events loaded. Fetch from Skiddle or add manually."/>
+                        </placeholder>
+                    </TableView>
+
+                </VBox>
+            </Tab>
+
+            <Tab text="Search">
+                <VBox spacing="12" style="-fx-padding: 16;">
+
+                    <GridPane hgap="12" vgap="10">
+                        <Label text="City:"          GridPane.columnIndex="0" GridPane.rowIndex="0"/>
+                        <TextField fx:id="searchCityField"   GridPane.columnIndex="1" GridPane.rowIndex="0" prefWidth="200"/>
+
+                        <Label text="Artist:"        GridPane.columnIndex="2" GridPane.rowIndex="0"/>
+                        <TextField fx:id="searchArtistField" GridPane.columnIndex="3" GridPane.rowIndex="0" prefWidth="200"/>
+
+                        <Label text="Venue:"         GridPane.columnIndex="0" GridPane.rowIndex="1"/>
+                        <TextField fx:id="searchVenueField"  GridPane.columnIndex="1" GridPane.rowIndex="1" prefWidth="200"/>
+
+                        <Label text="Date:"          GridPane.columnIndex="2" GridPane.rowIndex="1"/>
+                        <DatePicker fx:id="searchDatePicker" GridPane.columnIndex="3" GridPane.rowIndex="1"/>
+                    </GridPane>
+
+                    <HBox spacing="10">
+                        <Button text="Search"
+                                onAction="#onSearch"
+                                style="-fx-background-color: #e94560; -fx-text-fill: white; -fx-font-weight: bold;"/>
+                        <Button text="Clear"
+                                onAction="#onClearSearch"
+                                style="-fx-background-color: #444; -fx-text-fill: white;"/>
+                        <Label fx:id="searchResultsLabel"
+                               style="-fx-text-fill: #555; -fx-padding: 0 0 0 10;"/>
+                    </HBox>
+
+                    <TableView fx:id="searchResultsTable" VBox.vgrow="ALWAYS">
+                        <columns>
+                            <TableColumn fx:id="colSearchName"  text="Event Name" prefWidth="260"/>
+                            <TableColumn fx:id="colSearchDate"  text="Date"       prefWidth="110"/>
+                            <TableColumn fx:id="colSearchCity"  text="City"       prefWidth="120"/>
+                            <TableColumn fx:id="colSearchVenue" text="Venue"      prefWidth="200"/>
+                            <TableColumn fx:id="colSearchPrice" text="Price (£)"  prefWidth="90"/>
+                        </columns>
+                        <placeholder>
+                            <Label text="Enter a search term above and click Search."/>
+                        </placeholder>
+                    </TableView>
+
+                </VBox>
+            </Tab>
+
+        </TabPane>
+    </center>
+
+</BorderPane>
